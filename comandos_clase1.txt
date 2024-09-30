@@ -1,0 +1,87 @@
+    1  ssh-keygen -t ed25519
+    2  ls -l .ssh/
+    3  cat .ssh/id_ed25519.pub 
+    4  ls -l
+    5  cd repogit/
+    6  git clone git@github.com:MariamSofia/Tp_AySO.git
+    7  ls -l
+    8  git status
+    9  cd Tp_AySO/
+   10  git status
+   11  touch unarchivo
+   12  ls -l
+   13  git status
+   14  git add .
+   15  git commit -m add: "primer commit"
+   16  mariamsofiacanobakir@gmail.com
+   17  config --global user.email "mariamsofiacanobakir@gmail.com"
+   18  config --global user.name: Mariam Sofia
+   19  config --global user.name: MariamSofia
+   20  git commit -m add: "primer commit"
+   21  git commit -m "add: primer commit"
+   22  git config --global user.email "mariamsofiacanobakir@gmail.com
+   23  git config --global user.name "MariamSofia"
+   24  git commit -m "add: primer commit"
+   25  git commit -m "add: primer commit"
+   26  config --global user.email "mariamsofiacanobakir@gmail.com"
+   27  cd ..
+   28  cd ..
+   29  cd
+   30  dd
+   31  ssh-keygen -t ed25519
+   32  ls -l .ssh/
+   33  cat .ssh/id_ed25519.pub 
+   34  ls -l
+   35  cd repogit/
+   36  git clone git@github.com:MariamSofia/Tp_AySO.git
+   37  ls -l
+   38  cd Tp_AySO/
+   39  git status
+   40  touch unarchivo
+   41  git add.
+   42  git add .
+   43  git commit -m "add: primer commit"
+   44  git config --global user.email "mariamsofiacanobakir@gmail.com"
+   45  git config --global user.name "MariamSofia"
+   46  git commit -m "add: primer commit"
+   47  git push
+   48  echo hola
+   49  echo hola > unarchivo
+   50  ls -l
+   51  cat unarchivo 
+   52  ls -l > unarchivo 
+   53  cat unarchivo 
+   54  #echo hola
+   55  echo hola >> unarchivo
+   56  cat unarchivo
+   57  git status
+   58  git add .
+   59  git status
+   60  git commit -m "add: primer commit"
+   61  git status
+   62  git push
+   63  ll -l
+   64  git status
+   65  git push
+   66  git status
+   67  owd
+   68  pwd
+   69  echo "hola $(whoami)" > unarchivo
+   70  cat unarchivo
+   71  bs <<< 5+2
+   72  bc<<<5+2
+   73  cat unarchivo | wc
+   74  wc -l << EOF
+linea 1
+linea 2
+EOF
+
+   75  cat << FIN > otroarchvo
+li1
+li2
+li3
+FIN
+
+   76  cat otroarchvo
+   77  history
+   78  history > comandos_clase1.txt
